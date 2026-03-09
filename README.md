@@ -3,6 +3,8 @@ End of life tracker for operating systems
 
 This simple application shows the end of life of several popular Microsoft operating systems, but can easily extended to show more. It was developed for internal use only at Dorset HealthCare University NHS Foundation Trust.
 
+[**View the end of life tracker**](eol_tracker.html)
+
 ![Screenshot of the application](oseol_screengrab.png)
 
 ## Use of artificial intelligence
